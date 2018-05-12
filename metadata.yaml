@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24808'
     url: http://www.gutenberg.org/2009/agents/24808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21612#A-Child-of-the-Glens--13-or-Elsie-s-Fortunes
 gutenberg_issued: '2007-05-25'
 gutenberg_type: Text
 identifiers:
